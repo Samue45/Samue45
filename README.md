@@ -33,7 +33,7 @@ Puedes ver mi canal de Youtube aquí "[Sam][youtube]" .
 
 ### 📫 Cómo contactarme
 - Correo: [samuelayllonsevilla86@gmail.com](mailto:samuelayllonsevilla86@gmail.com)
-- LinkedIn: [Samuel Ayllón Sevilla](www.linkedin.com/in/samuel-ayllón-sevilla-4683372a3)
+- LinkedIn: [Samuel Ayllón Sevilla](https://www.linkedin.com/in/samuel-ayll%C3%B3n-sevilla-4683372a3/)
 
 #
 
