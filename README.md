@@ -2,10 +2,10 @@
 
 **`(Desarrollador Backend/Creador de contenido)`**
 
-Soy un desarrollador Backend apasionado y profundamente comprometido con la programación. Además, gestiono un canal de YouTube enfocado en el desarrollo personal y profesional, con un énfasis particular en la programación.
-Mi objetivo es compartir mis experiencias y aprendizajes tanto como desarrollador como individuo, con el fin de guiar y apoyar a otros en su camino hacia el éxito. A través de la reflexión sobre mis propios errores y logros, aspiro a ofrecer insights valiosos que faciliten el crecimiento y la superación personal y profesional de mi audiencia.
-Puedes ver mi canal de Youtube aquí "[MoonNet][youtube]" .
-
+Soy un desarrollador Backend apasionado y profundamente comprometido con la programación. Además, gestiono un canal de YouTube enfocado en el autonocimiento y el emprendimiento.
+Aquí comparto experiencias y aprendizajes sobre desarrollo personal y emprendimiento para ayudarte a alcanzar el éxito en tu camino. Exploramos temas como autoconocimiento, gestión del tiempo, hábitos positivos, innovación, planificación, y más, proporcionando herramientas prácticas y reflexiones valiosas para tu crecimiento personal y profesional.
+¡Únete a nuestra comunidad y suscríbete para no perderte ningún video!
+Puedes ver mi canal de Youtube aquí "[WolfAscend][youtube]".
    <p align="left">
       <a href="https://www.youtube.com/channel/UCrVQTglt8-oQ32eF0vG0mfQ?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrVQTglt8-oQ32eF0vG0mfQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
